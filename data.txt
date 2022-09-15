@@ -1,0 +1,1 @@
+Sample file means the data file containing records of selected eligible enrollees drawn by the survey agency from the carrier's sampling frame.
